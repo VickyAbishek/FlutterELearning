@@ -8,7 +8,7 @@ class AddTaskScreen extends StatelessWidget {
 
   Widget build(BuildContext context) {
     return SingleChildScrollView(
-      padding:
+      padding: 
           EdgeInsets.only(bottom: MediaQuery.of(context).viewInsets.bottom),
       child: Container(
         color: Color(0xFF737373),
